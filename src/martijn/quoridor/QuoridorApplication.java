@@ -41,6 +41,7 @@ public class QuoridorApplication {
 	/** Launches Quoridor. */
 	public static void main(String[] args) {
 		launch();
+		
 	}
 
 	private static void registerAdapter(ComboPane combo) {
